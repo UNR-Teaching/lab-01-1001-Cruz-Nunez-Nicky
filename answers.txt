@@ -1,0 +1,8 @@
+github username - 1001-Cruz-Nunez-Nicky https://github.com/UNR-Teaching/lab-01-1001-Cruz-Nunez-Nicky
+
+
+
+
+By adding > the file gets instantly stored into the directory. 
+It says that my branch is up to date with the "orgin/master"
+It just shows the new stuff I added highlighted. 
